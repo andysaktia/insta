@@ -28,7 +28,7 @@ twitter_username: andysaktia
 github_username:  andysaktia
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
